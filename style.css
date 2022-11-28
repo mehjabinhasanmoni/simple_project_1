@@ -16,3 +16,35 @@
     margin:5px;
 
 }
+.section_both{
+    background-color:#6EBFFA;
+    height:56px;
+    width:570px;
+    position: absolute;
+  
+}
+.left-section{
+    float:left;
+}
+.left-circle{
+    height:38px;
+    width:38px;
+    border-radius: 38px;
+    background-color: #46A4E9;
+    border:3px solid #fff;
+    margin:5px;
+    float: left;
+}
+.right-section{
+    float:right;
+}
+.right-circle{
+    height:38px;
+    width:38px;
+    border-radius: 38px;
+    background-color: #46A4E9;
+    border:3px solid #fff;
+    margin:5px;
+    float:right;
+
+}
